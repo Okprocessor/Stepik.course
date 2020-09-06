@@ -1,2 +1,2 @@
 # Stepik.course
-My Stepik_auto_test_courswe
+My Stepik_auto_test_course
