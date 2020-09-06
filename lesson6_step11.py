@@ -3,10 +3,10 @@ import time
 
 try:
     # - закомментированный линк для прохождения первого теста необходимо удалить "# "
-    # link = "http://suninjuly.github.io/registration1.html"
+    link = "http://suninjuly.github.io/registration1.html"
 
     # тест будет падать при прохождении по следующей ссылке:
-    link = "http://suninjuly.github.io/registration2.html"
+    # link = "http://suninjuly.github.io/registration2.html"
 
     browser = webdriver.Chrome()
     browser.get(link)
